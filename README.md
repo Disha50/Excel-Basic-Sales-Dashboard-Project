@@ -58,7 +58,7 @@ To analyze sales performance across **regions, products, and salespeople** using
 
 ## 🖼️ Dashboard Preview
 
-![Sales Dashboard](Sales Dashboard-Image.png)
+![Sales Dashboard](Sales_Dashboard_Image.png)
 
 ---
 
